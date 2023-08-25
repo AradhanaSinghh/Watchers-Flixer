@@ -1,0 +1,38 @@
+/* Footer.css */
+.footer {
+    background-color: #111;
+    color: #757575;
+    padding: 50px 10%;
+  }
+  
+  .footer__links {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  .footer__linksColumn {
+    display: flex;
+    flex-direction: column;
+    margin-right: 3rem;
+  }
+  
+  .footer__linksColumn a {
+    color: #757575;
+    margin-bottom: 10px;
+    text-decoration: none;
+  }
+  
+  .footer__serviceCode,
+  .footer__countrySelector {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .footer__countrySelector p {
+    font-weight: bold;
+    color: #e50914;
+    cursor: pointer;
+  }
+
+  
