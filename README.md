@@ -1,4 +1,4 @@
-Visit :- https://netflix-clone-af92b.web.app/
+Visit :-https://netflix-clone-37d65a.netlify.app/
 
 # Getting Started with Create React App
 
